@@ -68,7 +68,6 @@ function WatchList({ watchList, handleRemoveFromWatchList, setWatchList }) {
           className="h-[3rem] w-[20rem] bg-gray-200 outline-none px-4"
         />
       </div>
-
       <div className="overflow-hidden rounded-lg border border-gray-200 m-8">
         <table className="w-full text-gray-500 text-center">
           <thead className="border-b-2">
